@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfApp1.ROISelectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        xmlns:WinFormControls="clr-namespace:Emgu.CV.UI;assembly=Emgu.CV.UI"
+        Title="ROISelect" Height="450" Width="800" SizeChanged="Window_SizeChanged">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <WindowsFormsHost>
+            <WinFormControls:ImageBox x:Name="cvIb" FunctionalMode="Minimum"/>
+        </WindowsFormsHost>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBox x:Name="tb_currentArea"/>
+            <Button Grid.Row="1" x:Name="btn_calculateArea" Content="calculateArea"
+                    Click="btn_ROI_Click"/>
+            <TextBox Grid.Row="2" x:Name="tb_calculate"/>
+            <Button Grid.Row="3" x:Name="btn_setArea" Content="setArea"
+                    Click="btn_ROI_Click"/>
+            <TextBox Grid.Row="4" x:Name="tb_setValue"/>
+            <Button Grid.Row="5" x:Name="btn_save" Content="save"
+                    Click="btn_ROI_Click"/>
+        </Grid>
+    </Grid>
+</Window>

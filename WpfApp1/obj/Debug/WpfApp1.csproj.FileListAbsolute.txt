@@ -1,0 +1,64 @@
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\App.g.cs
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\MainWindow.baml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.UI.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\ZedGraph.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.World.Netstandard.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.UI.xml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.World.Netstandard.xml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\ROISelectWindow.g.cs
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\ROISelectWindow.baml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\bin\Debug\WpfApp1.application
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.TrustInfo.xml
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WpfApp1.application
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WindowTextRecognize.g.cs
+D:\Desktop_project\visual studio\WpfApp2\WpfApp1\obj\Debug\WindowTextRecognize.baml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\WpfApp1.application
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.UI.xml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\Emgu.CV.World.Netstandard.xml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\ROISelectWindow.g.cs
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WindowTextRecognize.g.cs
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\App.g.cs
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\MainWindow.baml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\ROISelectWindow.baml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WindowTextRecognize.baml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.TrustInfo.xml
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.application
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\10_Project\HadOrder\05_Planning\_作業模式SOP資料整理\WpfApp2\WpfApp1\obj\Debug\WpfApp1.pdb

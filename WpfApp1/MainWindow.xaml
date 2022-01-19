@@ -1,0 +1,83 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        xmlns:WinFormControls="clr-namespace:Emgu.CV.UI;assembly=Emgu.CV.UI"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded"
+        SizeChanged="Window_SizeChanged">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <WindowsFormsHost>
+            <WinFormControls:ImageBox x:Name="cvIb" FunctionalMode="Minimum"
+                                      MouseDown="cvIb_MouseDown"
+                                      MouseMove="cvIb_MouseMove"
+                                      Paint="cvIb_Paint"
+                                      MouseUp="cvIb_MouseUp"/>
+        </WindowsFormsHost>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+            <!--tools-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="btn_catchPhoto" Content="CatchPhoto" Click="btn_catchPhoto_Click"/>
+                <Button Grid.Row="1" x:Name="btn_centerLine" Content="CenterLine" Click="btn_centerLine_Click"/>
+                <Button Grid.Row="2" x:Name="btn_msg" Click="btn_msg_Click"/>
+            </Grid>
+            <!--Parameter: center ID&OD ROI-->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="btn_center" Content="Center" Click="btn_circle_Click"/>
+                <TextBox Grid.Column="1" x:Name="tb_center"/>
+
+                <Button Grid.Row="1" x:Name="btn_id" Content="ID" Click="btn_circle_Click"/>
+                <TextBox Grid.Row="1" Grid.Column="1" x:Name="tb_id"/>
+
+                <Button Grid.Row="2" x:Name="btn_od" Content="OD" Click="btn_circle_Click"/>
+                <TextBox Grid.Row="2" Grid.Column="1" x:Name="tb_od"/>
+
+                <Button Grid.Row="3" x:Name="btn_ROI" Content="ROI" Click="btn_circle_Click"/>
+                <TextBox Grid.Row="3" Grid.Column="1" x:Name="tb_ROI"/>
+            </Grid>
+            <!--Test & ParameterSave-->
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="btn_test" Content="Test" Click="btn_test_Click"/>
+                <Button Grid.Column="1" x:Name="btn_saveParameter" 
+                        Content="     Save&#13;Parameter"/>
+            </Grid>
+            
+        </Grid>
+    
+    </Grid>
+</Window>
